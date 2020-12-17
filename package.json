@@ -4,7 +4,7 @@
   "description": "my third try at jest. repitition",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
